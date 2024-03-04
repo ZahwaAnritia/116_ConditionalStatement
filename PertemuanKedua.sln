@@ -5,10 +5,6 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanKedua", "PertemuanKedua\PertemuanKedua.vcxproj", "{9FEB4CCC-22EC-452C-9420-20B0AAC98B10}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanKedua1", "..\PertemuanKedua1\PertemuanKedua1.vcxproj", "{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MenentukanKelulusan", "..\MenentukanKelulusan\MenentukanKelulusan.vcxproj", "{20159515-5C93-4750-8B98-187E7B5AD0D9}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MenentukanKelulusan1", "MenentukanKelulusan1\MenentukanKelulusan1.vcxproj", "{6C5C2E85-69B5-4463-8293-9985295E199E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanKedua2", "PertemuanKedua2\PertemuanKedua2.vcxproj", "{774FC8F5-AA9E-45ED-BC9B-83140E3DC507}"
@@ -29,22 +25,6 @@ Global
 		{9FEB4CCC-22EC-452C-9420-20B0AAC98B10}.Release|x64.Build.0 = Release|x64
 		{9FEB4CCC-22EC-452C-9420-20B0AAC98B10}.Release|x86.ActiveCfg = Release|Win32
 		{9FEB4CCC-22EC-452C-9420-20B0AAC98B10}.Release|x86.Build.0 = Release|Win32
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Debug|x64.ActiveCfg = Debug|x64
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Debug|x64.Build.0 = Debug|x64
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Debug|x86.ActiveCfg = Debug|Win32
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Debug|x86.Build.0 = Debug|Win32
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Release|x64.ActiveCfg = Release|x64
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Release|x64.Build.0 = Release|x64
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Release|x86.ActiveCfg = Release|Win32
-		{1FDB0FB5-9A49-4B5A-A9DD-A90DEBAF87C2}.Release|x86.Build.0 = Release|Win32
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Debug|x64.ActiveCfg = Debug|x64
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Debug|x64.Build.0 = Debug|x64
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Debug|x86.ActiveCfg = Debug|Win32
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Debug|x86.Build.0 = Debug|Win32
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Release|x64.ActiveCfg = Release|x64
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Release|x64.Build.0 = Release|x64
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Release|x86.ActiveCfg = Release|Win32
-		{20159515-5C93-4750-8B98-187E7B5AD0D9}.Release|x86.Build.0 = Release|Win32
 		{6C5C2E85-69B5-4463-8293-9985295E199E}.Debug|x64.ActiveCfg = Debug|x64
 		{6C5C2E85-69B5-4463-8293-9985295E199E}.Debug|x64.Build.0 = Debug|x64
 		{6C5C2E85-69B5-4463-8293-9985295E199E}.Debug|x86.ActiveCfg = Debug|Win32
